@@ -1,0 +1,52 @@
+{
+  "customers": [
+    {
+      "id": "f456",
+      "name": "lata",
+      "email": "lata@gmail.com",
+      "phone": "7890987890",
+      "date": "2024-09-03T18:30:00.000Z",
+      "address": "Raipur"
+    },
+    {
+      "id": "0eb3",
+      "name": "priya",
+      "email": "p@gmail.com",
+      "phone": "8797865432",
+      "date": "2024-09-23T18:30:00.000Z",
+      "address": "bhilai\n"
+    },
+    {
+      "id": "c4a9",
+      "name": "yuvraj",
+      "email": "y@gmail.com",
+      "phone": "7897654321",
+      "date": "2024-09-26T18:30:00.000Z",
+      "address": "Raipur"
+    },
+    {
+      "id": "5847",
+      "name": "jharna",
+      "email": "j@gmail.com",
+      "phone": "6789543214",
+      "date": "2024-08-07T18:30:00.000Z",
+      "address": "dhamtari"
+    },
+    {
+      "id": "3547",
+      "name": "tikesh",
+      "email": "t@gmail.com",
+      "phone": "7896754356",
+      "date": "2024-09-11T18:30:00.000Z",
+      "address": "Durg"
+    },
+    {
+      "id": "ad6b",
+      "name": "harish",
+      "email": "h@gmail.com",
+      "phone": "7896754234",
+      "date": "2024-09-26T18:30:00.000Z",
+      "address": "gariyaband"
+    }
+  ]
+}
